@@ -1,0 +1,556 @@
+{
+  "list": [
+    {
+      "name": "affenpinscher",
+      "path": "affenpinscher"
+    },
+    {
+      "name": "african",
+      "path": "african"
+    },
+    {
+      "name": "airedale",
+      "path": "airedale"
+    },
+    {
+      "name": "akita",
+      "path": "akita"
+    },
+    {
+      "name": "appenzeller",
+      "path": "appenzeller"
+    },
+    {
+      "name": "australian shepherd",
+      "path": "australian/shepherd"
+    },
+    {
+      "name": "basenji",
+      "path": "basenji"
+    },
+    {
+      "name": "beagle",
+      "path": "beagle"
+    },
+    {
+      "name": "bluetick",
+      "path": "bluetick"
+    },
+    {
+      "name": "borzoi",
+      "path": "borzoi"
+    },
+    {
+      "name": "bouvier",
+      "path": "bouvier"
+    },
+    {
+      "name": "boxer",
+      "path": "boxer"
+    },
+    {
+      "name": "brabancon",
+      "path": "brabancon"
+    },
+    {
+      "name": "briard",
+      "path": "briard"
+    },
+    {
+      "name": "buhund norwegian",
+      "path": "buhund/norwegian"
+    },
+    {
+      "name": "bulldog boston",
+      "path": "bulldog/boston"
+    },
+    {
+      "name": "bulldog english",
+      "path": "bulldog/english"
+    },
+    {
+      "name": "bulldog french",
+      "path": "bulldog/french"
+    },
+    {
+      "name": "bullterrier staffordshire",
+      "path": "bullterrier/staffordshire"
+    },
+    {
+      "name": "cairn",
+      "path": "cairn"
+    },
+    {
+      "name": "cattledog australian",
+      "path": "cattledog/australian"
+    },
+    {
+      "name": "chihuahua",
+      "path": "chihuahua"
+    },
+    {
+      "name": "chow",
+      "path": "chow"
+    },
+    {
+      "name": "clumber",
+      "path": "clumber"
+    },
+    {
+      "name": "cockapoo",
+      "path": "cockapoo"
+    },
+    {
+      "name": "collie border",
+      "path": "collie/border"
+    },
+    {
+      "name": "coonhound",
+      "path": "coonhound"
+    },
+    {
+      "name": "corgi cardigan",
+      "path": "corgi/cardigan"
+    },
+    {
+      "name": "cotondetulear",
+      "path": "cotondetulear"
+    },
+    {
+      "name": "dachshund",
+      "path": "dachshund"
+    },
+    {
+      "name": "dalmatian",
+      "path": "dalmatian"
+    },
+    {
+      "name": "dane great",
+      "path": "dane/great"
+    },
+    {
+      "name": "deerhound scottish",
+      "path": "deerhound/scottish"
+    },
+    {
+      "name": "dhole",
+      "path": "dhole"
+    },
+    {
+      "name": "dingo",
+      "path": "dingo"
+    },
+    {
+      "name": "doberman",
+      "path": "doberman"
+    },
+    {
+      "name": "elkhound norwegian",
+      "path": "elkhound/norwegian"
+    },
+    {
+      "name": "entlebucher",
+      "path": "entlebucher"
+    },
+    {
+      "name": "eskimo",
+      "path": "eskimo"
+    },
+    {
+      "name": "frise bichon",
+      "path": "frise/bichon"
+    },
+    {
+      "name": "germanshepherd",
+      "path": "germanshepherd"
+    },
+    {
+      "name": "greyhound italian",
+      "path": "greyhound/italian"
+    },
+    {
+      "name": "groenendael",
+      "path": "groenendael"
+    },
+    {
+      "name": "havanese",
+      "path": "havanese"
+    },
+    {
+      "name": "hound afghan",
+      "path": "hound/afghan"
+    },
+    {
+      "name": "hound basset",
+      "path": "hound/basset"
+    },
+    {
+      "name": "hound blood",
+      "path": "hound/blood"
+    },
+    {
+      "name": "hound english",
+      "path": "hound/english"
+    },
+    {
+      "name": "hound ibizan",
+      "path": "hound/ibizan"
+    },
+    {
+      "name": "hound walker",
+      "path": "hound/walker"
+    },
+    {
+      "name": "husky",
+      "path": "husky"
+    },
+    {
+      "name": "keeshond",
+      "path": "keeshond"
+    },
+    {
+      "name": "kelpie",
+      "path": "kelpie"
+    },
+    {
+      "name": "komondor",
+      "path": "komondor"
+    },
+    {
+      "name": "kuvasz",
+      "path": "kuvasz"
+    },
+    {
+      "name": "labrador",
+      "path": "labrador"
+    },
+    {
+      "name": "leonberg",
+      "path": "leonberg"
+    },
+    {
+      "name": "lhasa",
+      "path": "lhasa"
+    },
+    {
+      "name": "malamute",
+      "path": "malamute"
+    },
+    {
+      "name": "malinois",
+      "path": "malinois"
+    },
+    {
+      "name": "maltese",
+      "path": "maltese"
+    },
+    {
+      "name": "mastiff bull",
+      "path": "mastiff/bull"
+    },
+    {
+      "name": "mastiff english",
+      "path": "mastiff/english"
+    },
+    {
+      "name": "mastiff tibetan",
+      "path": "mastiff/tibetan"
+    },
+    {
+      "name": "mexicanhairless",
+      "path": "mexicanhairless"
+    },
+    {
+      "name": "mix",
+      "path": "mix"
+    },
+    {
+      "name": "mountain bernese",
+      "path": "mountain/bernese"
+    },
+    {
+      "name": "mountain swiss",
+      "path": "mountain/swiss"
+    },
+    {
+      "name": "newfoundland",
+      "path": "newfoundland"
+    },
+    {
+      "name": "otterhound",
+      "path": "otterhound"
+    },
+    {
+      "name": "papillon",
+      "path": "papillon"
+    },
+    {
+      "name": "pekinese",
+      "path": "pekinese"
+    },
+    {
+      "name": "pembroke",
+      "path": "pembroke"
+    },
+    {
+      "name": "pinscher miniature",
+      "path": "pinscher/miniature"
+    },
+    {
+      "name": "pitbull",
+      "path": "pitbull"
+    },
+    {
+      "name": "pointer german",
+      "path": "pointer/german"
+    },
+    {
+      "name": "pointer germanlonghair",
+      "path": "pointer/germanlonghair"
+    },
+    {
+      "name": "pomeranian",
+      "path": "pomeranian"
+    },
+    {
+      "name": "poodle miniature",
+      "path": "poodle/miniature"
+    },
+    {
+      "name": "poodle standard",
+      "path": "poodle/standard"
+    },
+    {
+      "name": "poodle toy",
+      "path": "poodle/toy"
+    },
+    {
+      "name": "pug",
+      "path": "pug"
+    },
+    {
+      "name": "puggle",
+      "path": "puggle"
+    },
+    {
+      "name": "pyrenees",
+      "path": "pyrenees"
+    },
+    {
+      "name": "redbone",
+      "path": "redbone"
+    },
+    {
+      "name": "retriever chesapeake",
+      "path": "retriever/chesapeake"
+    },
+    {
+      "name": "retriever curly",
+      "path": "retriever/curly"
+    },
+    {
+      "name": "retriever flatcoated",
+      "path": "retriever/flatcoated"
+    },
+    {
+      "name": "retriever golden",
+      "path": "retriever/golden"
+    },
+    {
+      "name": "ridgeback rhodesian",
+      "path": "ridgeback/rhodesian"
+    },
+    {
+      "name": "rottweiler",
+      "path": "rottweiler"
+    },
+    {
+      "name": "saluki",
+      "path": "saluki"
+    },
+    {
+      "name": "samoyed",
+      "path": "samoyed"
+    },
+    {
+      "name": "schipperke",
+      "path": "schipperke"
+    },
+    {
+      "name": "schnauzer giant",
+      "path": "schnauzer/giant"
+    },
+    {
+      "name": "schnauzer miniature",
+      "path": "schnauzer/miniature"
+    },
+    {
+      "name": "setter english",
+      "path": "setter/english"
+    },
+    {
+      "name": "setter gordon",
+      "path": "setter/gordon"
+    },
+    {
+      "name": "setter irish",
+      "path": "setter/irish"
+    },
+    {
+      "name": "sheepdog english",
+      "path": "sheepdog/english"
+    },
+    {
+      "name": "sheepdog shetland",
+      "path": "sheepdog/shetland"
+    },
+    {
+      "name": "shiba",
+      "path": "shiba"
+    },
+    {
+      "name": "shihtzu",
+      "path": "shihtzu"
+    },
+    {
+      "name": "spaniel blenheim",
+      "path": "spaniel/blenheim"
+    },
+    {
+      "name": "spaniel brittany",
+      "path": "spaniel/brittany"
+    },
+    {
+      "name": "spaniel cocker",
+      "path": "spaniel/cocker"
+    },
+    {
+      "name": "spaniel irish",
+      "path": "spaniel/irish"
+    },
+    {
+      "name": "spaniel japanese",
+      "path": "spaniel/japanese"
+    },
+    {
+      "name": "spaniel sussex",
+      "path": "spaniel/sussex"
+    },
+    {
+      "name": "spaniel welsh",
+      "path": "spaniel/welsh"
+    },
+    {
+      "name": "springer english",
+      "path": "springer/english"
+    },
+    {
+      "name": "stbernard",
+      "path": "stbernard"
+    },
+    {
+      "name": "terrier american",
+      "path": "terrier/american"
+    },
+    {
+      "name": "terrier australian",
+      "path": "terrier/australian"
+    },
+    {
+      "name": "terrier bedlington",
+      "path": "terrier/bedlington"
+    },
+    {
+      "name": "terrier border",
+      "path": "terrier/border"
+    },
+    {
+      "name": "terrier dandie",
+      "path": "terrier/dandie"
+    },
+    {
+      "name": "terrier fox",
+      "path": "terrier/fox"
+    },
+    {
+      "name": "terrier irish",
+      "path": "terrier/irish"
+    },
+    {
+      "name": "terrier kerryblue",
+      "path": "terrier/kerryblue"
+    },
+    {
+      "name": "terrier lakeland",
+      "path": "terrier/lakeland"
+    },
+    {
+      "name": "terrier norfolk",
+      "path": "terrier/norfolk"
+    },
+    {
+      "name": "terrier norwich",
+      "path": "terrier/norwich"
+    },
+    {
+      "name": "terrier patterdale",
+      "path": "terrier/patterdale"
+    },
+    {
+      "name": "terrier russell",
+      "path": "terrier/russell"
+    },
+    {
+      "name": "terrier scottish",
+      "path": "terrier/scottish"
+    },
+    {
+      "name": "terrier sealyham",
+      "path": "terrier/sealyham"
+    },
+    {
+      "name": "terrier silky",
+      "path": "terrier/silky"
+    },
+    {
+      "name": "terrier tibetan",
+      "path": "terrier/tibetan"
+    },
+    {
+      "name": "terrier toy",
+      "path": "terrier/toy"
+    },
+    {
+      "name": "terrier westhighland",
+      "path": "terrier/westhighland"
+    },
+    {
+      "name": "terrier wheaten",
+      "path": "terrier/wheaten"
+    },
+    {
+      "name": "terrier yorkshire",
+      "path": "terrier/yorkshire"
+    },
+    {
+      "name": "vizsla",
+      "path": "vizsla"
+    },
+    {
+      "name": "waterdog spanish",
+      "path": "waterdog/spanish"
+    },
+    {
+      "name": "weimaraner",
+      "path": "weimaraner"
+    },
+    {
+      "name": "whippet",
+      "path": "whippet"
+    },
+    {
+      "name": "wolfhound irish",
+      "path": "wolfhound/irish"
+    }
+  ]
+}
